@@ -1,5 +1,15 @@
 # Publish your Obsidian Notes
 
+
+### Einziges Problem, was im Template nicht erwähnt wurde
+
+Folgendes muss gesetzt werden so wie es hier bereits ist
+
+![[Bildschirmfoto 2022-04-30 um 21.01.37.png]]
+
+---
+
+
 (MkDocs template)
 
 Would you like to take _some_ of your notes in [Obsidian](https://obsidian.md/) and make it public?
