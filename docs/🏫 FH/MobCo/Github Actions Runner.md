@@ -3,7 +3,7 @@
 Abgewandelt davon: https://www.raeffs.dev/blog/2021/01-jan/26-github-ci-cd-pipeline/
 
 ### Mein main.yml
-```yaml
+```yaml title="main.yml" linenums="1"
 # This is a basic workflow to help you get started with Actions
 
 name: CI

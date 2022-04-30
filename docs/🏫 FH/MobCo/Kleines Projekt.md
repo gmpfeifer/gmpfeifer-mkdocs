@@ -1,8 +1,8 @@
 # Kleines Projekt
 
-### 💡**Idee:** Blog hosten am Raspberry Pi
+## 💡**Idee:** Blog hosten am Raspberry Pi
 
-###### Aufbau
+### Aufbau
 - Blogbeiträge in Obsidian schreiben
 - Mit [obsidian-export](https://github.com/zoni/obsidian-export) oder mit einem der folgenden Forks in normales Markdown verwandeln:
 	- https://github.com/jforberg/obsidian-export
