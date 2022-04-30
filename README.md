@@ -7,8 +7,6 @@ Folgendes muss gesetzt werden so wie es hier bereits ist
 
 ![](screenshot.png)
 
-![[screenshot.png]]
-
 ---
 
 
