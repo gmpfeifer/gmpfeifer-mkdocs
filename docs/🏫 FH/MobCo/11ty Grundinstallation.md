@@ -12,8 +12,7 @@ Um den Raspberry Pi im Netzwerk zu finden, kann man entweder einen Netzwerk-Scan
 	-  ```sudo apt update && sudo apt upgrade -y```
    
 
-2. Das Paket npm installieren
-   
+2. Das Paket npm installieren   
    ```
    sudo apt install npm
    ```
