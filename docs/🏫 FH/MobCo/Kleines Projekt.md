@@ -24,14 +24,3 @@ C -->|One| D[Satic Site Generator - 11ty?];
 
 ```
 
----
-
-Graph Test
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
