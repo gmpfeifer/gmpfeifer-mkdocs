@@ -54,5 +54,5 @@ Leider nicht sinnvol für diese Anwendung, weil man den Content über Ghost zur 
 MKDocs: https://github.com/jobindj/obsidian-publish-mkdocs
 → angewendet auf  https://lyz-code.github.io/blue-book/
 
-~~==oder lieber Spacebook:== https://spacebook.app  ~~
+~~==oder lieber Spacebook:==~~ https://spacebook.app
 Spacebook nicht perfekt, da nicht einfach mit Obsidian kompatibel
