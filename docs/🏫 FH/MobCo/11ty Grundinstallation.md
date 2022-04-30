@@ -13,11 +13,13 @@ Um den Raspberry Pi im Netzwerk zu finden, kann man entweder einen Netzwerk-Scan
    
 
 2. Das Paket npm installieren
+   
    ```
    sudo apt install npm
    ```
 
 3. 11ty über npm installieren
+   
    ```
    npm install --save-dev @11ty/eleventy
    ```
