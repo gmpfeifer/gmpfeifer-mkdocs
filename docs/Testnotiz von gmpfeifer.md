@@ -5,7 +5,15 @@ gmpfeifer
 
 so
 
+``` markdown title="Keyboard keys"
 ++ctrl+alt+del++
+```
+
+<div class="result" markdown>
+
+++ctrl+alt+del++
+
+</div>
 
 
 Graph Test
