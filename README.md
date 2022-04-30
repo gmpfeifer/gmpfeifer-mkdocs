@@ -5,7 +5,7 @@
 
 Folgendes muss gesetzt werden so wie es hier bereits ist
 
-![[Bildschirmfoto 2022-04-30 um 21.01.37.png]]
+![](screenshot.png)
 
 ---
 
